@@ -1,0 +1,4 @@
+Run Instructions:
+
+1. Execute 3_New_Emp_Create_Proc.sql to CREATE Procedure p_create_employee.
+2. Execute 3_Run_create_new_emp.sql to Execute the Procedure.

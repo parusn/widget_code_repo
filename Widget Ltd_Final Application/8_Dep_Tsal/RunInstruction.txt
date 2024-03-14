@@ -1,0 +1,4 @@
+Run Instructions:
+
+1. Execute 8_Dept_Sal_Fn.sql to CREATE Function get_department_Salary.
+2. Execute 8_Run_Dept_Sal.sql to Execute the function.

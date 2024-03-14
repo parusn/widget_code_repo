@@ -1,0 +1,5 @@
+Run Instructions:
+
+1. Execute 4_Sal_Update_Pkg.sql to CREATE the PACKAGE Spec and PACKAGE Body 'get_salary'.
+2. Execute 4_Run_Sal_Increment.sql to EXECUTE the procedure inc_emp_salary.
+3. Execute 4_Run_Sal_Decrement.sql to EXECUTE the procedure dec_emp_salary.

@@ -1,0 +1,4 @@
+Run Instructions:
+
+1. Execute 6_Get_Emp_Salary_Fn.sql to CREATE Function 'get_employee_salary'.
+2. Execute 6_Run_Get_Emp_Salary.sql to EXECUTE the function.

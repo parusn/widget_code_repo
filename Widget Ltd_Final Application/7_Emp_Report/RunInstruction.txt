@@ -1,0 +1,4 @@
+Run Instructions:
+
+1. Execute 7_Emp_Report_Proc.sql to CREATE Procedure p_report_Employee_details.
+2. Execute 7_Run_Emp_Report.sql to EXECUTE the procedure.

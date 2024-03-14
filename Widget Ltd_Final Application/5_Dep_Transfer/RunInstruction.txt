@@ -1,0 +1,4 @@
+Run Instructions:
+
+1. Execute 5_Change_Dept_Proc.sql to CREATE Procedure 'change_employee_department'.
+2. Execute 5_Run_Change_Dept.sql to EXECUTE the procedure block.
